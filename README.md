@@ -1,5 +1,5 @@
 # Student-Report-Card-Handling-System
-This is a simple command-line interface program built with C++ that allows users to add, list, delete, and modify records in a student report card handling system. This program stores student records in a text file.
+This is a simple command-line interface program built with C++ that allows users to add, list, delete, and modify records in a student report card handling system. This program stores student records in a text file (in binary format).
 
 # Features
 <ul>
